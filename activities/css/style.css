@@ -1,0 +1,102 @@
+/*-----Color Swatches-----
+#166d76		Teal
+#540f84		Purple
+#2ea2ae		Light Teal
+---------------------------*/
+
+body{
+	max-width: 960px;
+	background-color: #666;
+	margin: 0 auto;
+	font-family: 'Verdana', sans-serif;	
+}
+
+#wrapper{
+	width: 100%;
+	background-color: #fff;
+	padding: 15px 1.5625%;
+	border: 10px solid #166d76;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+h1, h2{
+	color: #166d76;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+a:visited{
+	color: #333;
+}
+
+a:hover{
+	color: #540f84;
+}
+
+a:active{
+	color: #fff;
+}
+#italart{
+	width: 31.25%;
+	height: 225px;
+	float: left;
+	background-color: #aaa;
+	margin: 10px 1.5625% 15px 0;
+	font-size: 0.8125em;
+	text-align: center;
+	padding: 0 0.520833333333%;
+}
+
+#brahma{
+	width: 31.25%;
+	height: 225px;
+	float: left;
+	background-color: #aaa;
+	margin: 10px 0 15px 0;
+	font-size: 0.8125em;
+	text-align: center;
+	padding: 0 0.520833333333%;
+}
+
+#fines{
+	width: 31.25%;
+	height: 225px;
+	float: right;
+	background-color: #aaa;
+	margin: 10px 0 15px 1.5625%;
+	font-size: 0.8125em;
+	text-align: center;
+	padding: 0 0.520833333333%;
+}
+
+#audience{
+	clear: both;
+}
+
+#target{
+	margin: 35px 0 0 0;
+}
+
+#audience aside{
+	width: 33.3333333333%;
+	background: #2ea2ae;
+	float: right;
+	text-align: center;
+	padding: 0 0.520833333333%;
+	font-size: 0.8125em;
+	font-style: italic;
+	border-radius: 2px;
+	margin: 0 0 0 1.041666666667%;
+	clear: right;
+}
+
